@@ -1,4 +1,4 @@
-1. Rename all the *.txt files to *.js
+1. Required to setup virtual host in the server
 
 2. Import mysql schema from schema.sql
 
